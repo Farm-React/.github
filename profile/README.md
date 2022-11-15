@@ -6,7 +6,7 @@ En esta organización voy a tener todos los temas relacionados a react que quier
 **FUNDAMENTALS** 
 - operadores
 - variables
-- esctructuras de contro
+- esctructuras de control
 - funciones
 - funciones de flecha
 - funciones llamando funciones
@@ -22,14 +22,16 @@ En esta organización voy a tener todos los temas relacionados a react que quier
 
 **DOM MANIPULATION**
 
-- agregar evenbtos, cambiar estilos, etc
+- agregar evenntos, cambiar estilos, etc
 - selectorAll, selector, contains
 
 **SCROPE**
 
 - global, funcion, bloque
+
 &&
-metodos, funciones, flecha, eventos
+
+- metodos, funciones, flecha, eventos
 
 **UTILS**
 
@@ -39,6 +41,7 @@ metodos, funciones, flecha, eventos
 - short circuiting
 
 **IMPORTANTE**
+
 - asyncrono
 - callback
 - time, date
