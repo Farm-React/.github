@@ -4,7 +4,12 @@ En esta organización voy a tener todos los temas relacionados a react que quier
 ## Temas a aprender 
 
 **FUNDAMENTALS** 
-- operadores, variables, estructuras de control, funciones, funciones de flecha, funciones llamando funciones
+- operadores
+- variables
+- esctructuras de contro
+- funciones
+- funciones de flecha
+- funciones llamando funciones
 
 **ARRAYS**
 
@@ -16,15 +21,23 @@ En esta organización voy a tener todos los temas relacionados a react que quier
 
 **DOM MANIPULATION**
 
-- agregar evenbtos, cambiar estilos, etc , selectorAll, selector, contains
+- agregar evenbtos, cambiar estilos, etc
+- selectorAll, selector, contains
 
 **SCROPE**
 
-- global, funcion, bloque && metodos, funciones, flecha, eventos
+- global, funcion, bloque
+&&
+metodos, funciones, flecha, eventos
 
 **UTILS**
 
 - desctructurin, spread, rest, short circuiting
 
 **IMPORTANTE**
-- asyncrono, callback, time, date, funciones lambda, map, filter, reduce, find, evry, flat, sort
+- asyncrono
+- callback
+- time, date
+- funciones lambda
+- map, filter, reduce, find, evry, flat
+- sort
