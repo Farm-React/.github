@@ -1,15 +1,10 @@
 ## Objetivo
 En esta organización voy a tener todos los temas relacionados a react que quiero estudiar, los tendria en mi github personal pero mi idea es hacer alrededor ded 80 ejercicios 👋
 
-## Temas a aprender :
+## Temas a aprender 
 
 **FUNDAMENTALS** 
-- operadores
-- variables
-- esctructuras de contro
-- funciones
-- funciones de flecha
-- funciones llamando funciones
+- operadores, variables, estructuras de control, funciones, funciones de flecha, funciones llamando funciones
 
 **ARRAYS**
 
@@ -17,31 +12,19 @@ En esta organización voy a tener todos los temas relacionados a react que quier
 
 **OBJECTS**
 
-- asignacion, eliminacion
-- metodos edntro
+- asignacion, eliminacion, metodos dentro
 
 **DOM MANIPULATION**
 
-- agregar evenbtos, cambiar estilos, etc
-- selectorAll, selector, contains
+- agregar evenbtos, cambiar estilos, etc , selectorAll, selector, contains
 
 **SCROPE**
 
-- global, funcion, bloque
-&&
-metodos, funciones, flecha, eventos
+- global, funcion, bloque && metodos, funciones, flecha, eventos
 
 **UTILS**
 
-- desctructuring
-- spread
-- rest
-- short circuiting
+- desctructurin, spread, rest, short circuiting
 
 **IMPORTANTE**
-- asyncrono
-- callback
-- time, date
-- funciones lambda
-- map, filter, reduce, find, evry, flat
-- sort
+- asyncrono, callback, time, date, funciones lambda, map, filter, reduce, find, evry, flat, sort
